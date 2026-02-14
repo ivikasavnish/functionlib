@@ -1,0 +1,1916 @@
+{
+  "total_enhanced_specs": 100,
+  "note": "Enhanced specifications with detailed input/output schemas for 100 sample functions",
+  "functions": [
+    {
+      "id": 1,
+      "name": "advanced_algebra_19",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 19",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_19",
+        "code": "result = advanced_algebra_19(input_data)"
+      }
+    },
+    {
+      "id": 2,
+      "name": "advanced_algebra_2",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 2",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_2",
+        "code": "result = advanced_algebra_2(input_data)"
+      }
+    },
+    {
+      "id": 3,
+      "name": "advanced_algebra_48",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 48",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_48",
+        "code": "result = advanced_algebra_48(input_data)"
+      }
+    },
+    {
+      "id": 4,
+      "name": "advanced_algebra_222",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 222",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_222",
+        "code": "result = advanced_algebra_222(input_data)"
+      }
+    },
+    {
+      "id": 5,
+      "name": "advanced_algebra_111",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 111",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_111",
+        "code": "result = advanced_algebra_111(input_data)"
+      }
+    },
+    {
+      "id": 6,
+      "name": "advanced_algebra_140",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 140",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_140",
+        "code": "result = advanced_algebra_140(input_data)"
+      }
+    },
+    {
+      "id": 7,
+      "name": "advanced_algebra_247",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 247",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_247",
+        "code": "result = advanced_algebra_247(input_data)"
+      }
+    },
+    {
+      "id": 8,
+      "name": "advanced_algebra_216",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 216",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_216",
+        "code": "result = advanced_algebra_216(input_data)"
+      }
+    },
+    {
+      "id": 9,
+      "name": "advanced_algebra_187",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 187",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_187",
+        "code": "result = advanced_algebra_187(input_data)"
+      }
+    },
+    {
+      "id": 10,
+      "name": "advanced_algebra_174",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 174",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_174",
+        "code": "result = advanced_algebra_174(input_data)"
+      }
+    },
+    {
+      "id": 11,
+      "name": "advanced_algebra_125",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 125",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_125",
+        "code": "result = advanced_algebra_125(input_data)"
+      }
+    },
+    {
+      "id": 12,
+      "name": "advanced_algebra_135",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 135",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_135",
+        "code": "result = advanced_algebra_135(input_data)"
+      }
+    },
+    {
+      "id": 13,
+      "name": "advanced_algebra_164",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 164",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_164",
+        "code": "result = advanced_algebra_164(input_data)"
+      }
+    },
+    {
+      "id": 14,
+      "name": "advanced_algebra_197",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 197",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_197",
+        "code": "result = advanced_algebra_197(input_data)"
+      }
+    },
+    {
+      "id": 15,
+      "name": "advanced_algebra_206",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 206",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_206",
+        "code": "result = advanced_algebra_206(input_data)"
+      }
+    },
+    {
+      "id": 16,
+      "name": "gaussian_elimination",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Solves linear systems using Gaussian elimination",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of gaussian_elimination",
+        "code": "result = gaussian_elimination(input_data)"
+      }
+    },
+    {
+      "id": 17,
+      "name": "advanced_algebra_150",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 150",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_150",
+        "code": "result = advanced_algebra_150(input_data)"
+      }
+    },
+    {
+      "id": 18,
+      "name": "advanced_algebra_101",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 101",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_101",
+        "code": "result = advanced_algebra_101(input_data)"
+      }
+    },
+    {
+      "id": 19,
+      "name": "solve_rational_equation",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Solves rational equations",
+      "input": {
+        "coefficients": "array of numbers",
+        "variable": "string (optional, default 'x')",
+        "method": "string (analytical, numerical)"
+      },
+      "output": {
+        "solutions": "array of numbers or complex numbers",
+        "steps": "array of solution steps",
+        "graph_points": "array of {x, y} coordinates"
+      },
+      "example_usage": {
+        "description": "Example usage of solve_rational_equation",
+        "code": "result = solve_rational_equation(input_data)"
+      }
+    },
+    {
+      "id": 20,
+      "name": "advanced_algebra_232",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 232",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_232",
+        "code": "result = advanced_algebra_232(input_data)"
+      }
+    },
+    {
+      "id": 21,
+      "name": "gcd_polynomials",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Greatest common divisor of polynomials",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of gcd_polynomials",
+        "code": "result = gcd_polynomials(input_data)"
+      }
+    },
+    {
+      "id": 22,
+      "name": "advanced_algebra_58",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 58",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_58",
+        "code": "result = advanced_algebra_58(input_data)"
+      }
+    },
+    {
+      "id": 23,
+      "name": "subtract_polynomials",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Subtracts polynomials",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of subtract_polynomials",
+        "code": "result = subtract_polynomials(input_data)"
+      }
+    },
+    {
+      "id": 24,
+      "name": "advanced_algebra_29",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 29",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_29",
+        "code": "result = advanced_algebra_29(input_data)"
+      }
+    },
+    {
+      "id": 25,
+      "name": "rational_function",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Evaluates rational function",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of rational_function",
+        "code": "result = rational_function(input_data)"
+      }
+    },
+    {
+      "id": 26,
+      "name": "advanced_algebra_78",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 78",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_78",
+        "code": "result = advanced_algebra_78(input_data)"
+      }
+    },
+    {
+      "id": 27,
+      "name": "advanced_algebra_6",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 6",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_6",
+        "code": "result = advanced_algebra_6(input_data)"
+      }
+    },
+    {
+      "id": 28,
+      "name": "advanced_algebra_183",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 183",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_183",
+        "code": "result = advanced_algebra_183(input_data)"
+      }
+    },
+    {
+      "id": 29,
+      "name": "advanced_algebra_212",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 212",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_212",
+        "code": "result = advanced_algebra_212(input_data)"
+      }
+    },
+    {
+      "id": 30,
+      "name": "advanced_algebra_243",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 243",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_243",
+        "code": "result = advanced_algebra_243(input_data)"
+      }
+    },
+    {
+      "id": 31,
+      "name": "advanced_algebra_121",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 121",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_121",
+        "code": "result = advanced_algebra_121(input_data)"
+      }
+    },
+    {
+      "id": 32,
+      "name": "advanced_algebra_170",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 170",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_170",
+        "code": "result = advanced_algebra_170(input_data)"
+      }
+    },
+    {
+      "id": 33,
+      "name": "advanced_algebra_226",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 226",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_226",
+        "code": "result = advanced_algebra_226(input_data)"
+      }
+    },
+    {
+      "id": 34,
+      "name": "natural_logarithm",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Calculates natural logarithm",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of natural_logarithm",
+        "code": "result = natural_logarithm(input_data)"
+      }
+    },
+    {
+      "id": 35,
+      "name": "advanced_algebra_144",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 144",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_144",
+        "code": "result = advanced_algebra_144(input_data)"
+      }
+    },
+    {
+      "id": 36,
+      "name": "advanced_algebra_115",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 115",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_115",
+        "code": "result = advanced_algebra_115(input_data)"
+      }
+    },
+    {
+      "id": 37,
+      "name": "advanced_algebra_105",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 105",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_105",
+        "code": "result = advanced_algebra_105(input_data)"
+      }
+    },
+    {
+      "id": 38,
+      "name": "advanced_algebra_154",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 154",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_154",
+        "code": "result = advanced_algebra_154(input_data)"
+      }
+    },
+    {
+      "id": 39,
+      "name": "advanced_algebra_236",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 236",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_236",
+        "code": "result = advanced_algebra_236(input_data)"
+      }
+    },
+    {
+      "id": 40,
+      "name": "binomial_expansion",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Expands binomial expression using binomial theorem",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of binomial_expansion",
+        "code": "result = binomial_expansion(input_data)"
+      }
+    },
+    {
+      "id": 41,
+      "name": "advanced_algebra_160",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 160",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_160",
+        "code": "result = advanced_algebra_160(input_data)"
+      }
+    },
+    {
+      "id": 42,
+      "name": "advanced_algebra_131",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 131",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_131",
+        "code": "result = advanced_algebra_131(input_data)"
+      }
+    },
+    {
+      "id": 43,
+      "name": "advanced_algebra_202",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 202",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_202",
+        "code": "result = advanced_algebra_202(input_data)"
+      }
+    },
+    {
+      "id": 44,
+      "name": "advanced_algebra_193",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 193",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_193",
+        "code": "result = advanced_algebra_193(input_data)"
+      }
+    },
+    {
+      "id": 45,
+      "name": "advanced_algebra_68",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 68",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_68",
+        "code": "result = advanced_algebra_68(input_data)"
+      }
+    },
+    {
+      "id": 46,
+      "name": "advanced_algebra_39",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 39",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_39",
+        "code": "result = advanced_algebra_39(input_data)"
+      }
+    },
+    {
+      "id": 47,
+      "name": "advanced_algebra_28",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 28",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_28",
+        "code": "result = advanced_algebra_28(input_data)"
+      }
+    },
+    {
+      "id": 48,
+      "name": "solve_cubic_equation",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Solves cubic equations using Cardano's formula",
+      "input": {
+        "coefficients": "array of numbers",
+        "variable": "string (optional, default 'x')",
+        "method": "string (analytical, numerical)"
+      },
+      "output": {
+        "solutions": "array of numbers or complex numbers",
+        "steps": "array of solution steps",
+        "graph_points": "array of {x, y} coordinates"
+      },
+      "example_usage": {
+        "description": "Example usage of solve_cubic_equation",
+        "code": "result = solve_cubic_equation(input_data)"
+      }
+    },
+    {
+      "id": 49,
+      "name": "advanced_algebra_79",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 79",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_79",
+        "code": "result = advanced_algebra_79(input_data)"
+      }
+    },
+    {
+      "id": 50,
+      "name": "gauss_jordan",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Solves systems using Gauss-Jordan elimination",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of gauss_jordan",
+        "code": "result = gauss_jordan(input_data)"
+      }
+    },
+    {
+      "id": 51,
+      "name": "advanced_algebra_7",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 7",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_7",
+        "code": "result = advanced_algebra_7(input_data)"
+      }
+    },
+    {
+      "id": 52,
+      "name": "advanced_algebra_213",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 213",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_213",
+        "code": "result = advanced_algebra_213(input_data)"
+      }
+    },
+    {
+      "id": 53,
+      "name": "advanced_algebra_182",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 182",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_182",
+        "code": "result = advanced_algebra_182(input_data)"
+      }
+    },
+    {
+      "id": 54,
+      "name": "complete_square",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Completes the square for quadratic expression",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of complete_square",
+        "code": "result = complete_square(input_data)"
+      }
+    },
+    {
+      "id": 55,
+      "name": "advanced_algebra_242",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 242",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_242",
+        "code": "result = advanced_algebra_242(input_data)"
+      }
+    },
+    {
+      "id": 56,
+      "name": "solve_system_linear",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Solves system of linear equations",
+      "input": {
+        "coefficients": "array of numbers",
+        "variable": "string (optional, default 'x')",
+        "method": "string (analytical, numerical)"
+      },
+      "output": {
+        "solutions": "array of numbers or complex numbers",
+        "steps": "array of solution steps",
+        "graph_points": "array of {x, y} coordinates"
+      },
+      "example_usage": {
+        "description": "Example usage of solve_system_linear",
+        "code": "result = solve_system_linear(input_data)"
+      }
+    },
+    {
+      "id": 57,
+      "name": "advanced_algebra_120",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 120",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_120",
+        "code": "result = advanced_algebra_120(input_data)"
+      }
+    },
+    {
+      "id": 58,
+      "name": "advanced_algebra_171",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 171",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_171",
+        "code": "result = advanced_algebra_171(input_data)"
+      }
+    },
+    {
+      "id": 59,
+      "name": "rationalize_denominator",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Removes radicals from denominator",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of rationalize_denominator",
+        "code": "result = rationalize_denominator(input_data)"
+      }
+    },
+    {
+      "id": 60,
+      "name": "advanced_algebra_227",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 227",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_227",
+        "code": "result = advanced_algebra_227(input_data)"
+      }
+    },
+    {
+      "id": 61,
+      "name": "advanced_algebra_145",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 145",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_145",
+        "code": "result = advanced_algebra_145(input_data)"
+      }
+    },
+    {
+      "id": 62,
+      "name": "absolute_value_equation",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Solves absolute value equations",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of absolute_value_equation",
+        "code": "result = absolute_value_equation(input_data)"
+      }
+    },
+    {
+      "id": 63,
+      "name": "advanced_algebra_114",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 114",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_114",
+        "code": "result = advanced_algebra_114(input_data)"
+      }
+    },
+    {
+      "id": 64,
+      "name": "advanced_algebra_104",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 104",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_104",
+        "code": "result = advanced_algebra_104(input_data)"
+      }
+    },
+    {
+      "id": 65,
+      "name": "advanced_algebra_155",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 155",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_155",
+        "code": "result = advanced_algebra_155(input_data)"
+      }
+    },
+    {
+      "id": 66,
+      "name": "advanced_algebra_237",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 237",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_237",
+        "code": "result = advanced_algebra_237(input_data)"
+      }
+    },
+    {
+      "id": 67,
+      "name": "advanced_algebra_161",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 161",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_161",
+        "code": "result = advanced_algebra_161(input_data)"
+      }
+    },
+    {
+      "id": 68,
+      "name": "advanced_algebra_130",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 130",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_130",
+        "code": "result = advanced_algebra_130(input_data)"
+      }
+    },
+    {
+      "id": 69,
+      "name": "factor_difference_squares",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Factors difference of squares",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of factor_difference_squares",
+        "code": "result = factor_difference_squares(input_data)"
+      }
+    },
+    {
+      "id": 70,
+      "name": "advanced_algebra_192",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 192",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_192",
+        "code": "result = advanced_algebra_192(input_data)"
+      }
+    },
+    {
+      "id": 71,
+      "name": "advanced_algebra_203",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 203",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_203",
+        "code": "result = advanced_algebra_203(input_data)"
+      }
+    },
+    {
+      "id": 72,
+      "name": "lcm_polynomials",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Least common multiple of polynomials",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of lcm_polynomials",
+        "code": "result = lcm_polynomials(input_data)"
+      }
+    },
+    {
+      "id": 73,
+      "name": "advanced_algebra_69",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 69",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_69",
+        "code": "result = advanced_algebra_69(input_data)"
+      }
+    },
+    {
+      "id": 74,
+      "name": "piecewise_function_eval",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Evaluates piecewise function",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of piecewise_function_eval",
+        "code": "result = piecewise_function_eval(input_data)"
+      }
+    },
+    {
+      "id": 75,
+      "name": "advanced_algebra_38",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 38",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_38",
+        "code": "result = advanced_algebra_38(input_data)"
+      }
+    },
+    {
+      "id": 76,
+      "name": "advanced_algebra_18",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 18",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_18",
+        "code": "result = advanced_algebra_18(input_data)"
+      }
+    },
+    {
+      "id": 77,
+      "name": "arithmetic_sequence_sum",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Sums arithmetic sequence",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of arithmetic_sequence_sum",
+        "code": "result = arithmetic_sequence_sum(input_data)"
+      }
+    },
+    {
+      "id": 78,
+      "name": "advanced_algebra_3",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 3",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_3",
+        "code": "result = advanced_algebra_3(input_data)"
+      }
+    },
+    {
+      "id": 79,
+      "name": "advanced_algebra_49",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 49",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_49",
+        "code": "result = advanced_algebra_49(input_data)"
+      }
+    },
+    {
+      "id": 80,
+      "name": "advanced_algebra_223",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 223",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_223",
+        "code": "result = advanced_algebra_223(input_data)"
+      }
+    },
+    {
+      "id": 81,
+      "name": "union_intervals",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Finds union of intervals",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of union_intervals",
+        "code": "result = union_intervals(input_data)"
+      }
+    },
+    {
+      "id": 82,
+      "name": "exponential_growth",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Models exponential growth",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of exponential_growth",
+        "code": "result = exponential_growth(input_data)"
+      }
+    },
+    {
+      "id": 83,
+      "name": "solve_inequality",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Solves algebraic inequalities",
+      "input": {
+        "coefficients": "array of numbers",
+        "variable": "string (optional, default 'x')",
+        "method": "string (analytical, numerical)"
+      },
+      "output": {
+        "solutions": "array of numbers or complex numbers",
+        "steps": "array of solution steps",
+        "graph_points": "array of {x, y} coordinates"
+      },
+      "example_usage": {
+        "description": "Example usage of solve_inequality",
+        "code": "result = solve_inequality(input_data)"
+      }
+    },
+    {
+      "id": 84,
+      "name": "advanced_algebra_110",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 110",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_110",
+        "code": "result = advanced_algebra_110(input_data)"
+      }
+    },
+    {
+      "id": 85,
+      "name": "advanced_algebra_141",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 141",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_141",
+        "code": "result = advanced_algebra_141(input_data)"
+      }
+    },
+    {
+      "id": 86,
+      "name": "solve_exponential_equation",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Solves exponential equations",
+      "input": {
+        "coefficients": "array of numbers",
+        "variable": "string (optional, default 'x')",
+        "method": "string (analytical, numerical)"
+      },
+      "output": {
+        "solutions": "array of numbers or complex numbers",
+        "steps": "array of solution steps",
+        "graph_points": "array of {x, y} coordinates"
+      },
+      "example_usage": {
+        "description": "Example usage of solve_exponential_equation",
+        "code": "result = solve_exponential_equation(input_data)"
+      }
+    },
+    {
+      "id": 87,
+      "name": "compound_interest",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Calculates compound interest",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of compound_interest",
+        "code": "result = compound_interest(input_data)"
+      }
+    },
+    {
+      "id": 88,
+      "name": "advanced_algebra_246",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 246",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_246",
+        "code": "result = advanced_algebra_246(input_data)"
+      }
+    },
+    {
+      "id": 89,
+      "name": "advanced_algebra_186",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 186",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_186",
+        "code": "result = advanced_algebra_186(input_data)"
+      }
+    },
+    {
+      "id": 90,
+      "name": "advanced_algebra_217",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 217",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_217",
+        "code": "result = advanced_algebra_217(input_data)"
+      }
+    },
+    {
+      "id": 91,
+      "name": "advanced_algebra_175",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 175",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_175",
+        "code": "result = advanced_algebra_175(input_data)"
+      }
+    },
+    {
+      "id": 92,
+      "name": "advanced_algebra_124",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 124",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_124",
+        "code": "result = advanced_algebra_124(input_data)"
+      }
+    },
+    {
+      "id": 93,
+      "name": "advanced_algebra_134",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 134",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_134",
+        "code": "result = advanced_algebra_134(input_data)"
+      }
+    },
+    {
+      "id": 94,
+      "name": "advanced_algebra_165",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 165",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_165",
+        "code": "result = advanced_algebra_165(input_data)"
+      }
+    },
+    {
+      "id": 95,
+      "name": "advanced_algebra_207",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 207",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_207",
+        "code": "result = advanced_algebra_207(input_data)"
+      }
+    },
+    {
+      "id": 96,
+      "name": "advanced_algebra_196",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 196",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_196",
+        "code": "result = advanced_algebra_196(input_data)"
+      }
+    },
+    {
+      "id": 97,
+      "name": "advanced_algebra_151",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 151",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_151",
+        "code": "result = advanced_algebra_151(input_data)"
+      }
+    },
+    {
+      "id": 98,
+      "name": "common_logarithm",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Calculates common logarithm",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of common_logarithm",
+        "code": "result = common_logarithm(input_data)"
+      }
+    },
+    {
+      "id": 99,
+      "name": "advanced_algebra_100",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 100",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_100",
+        "code": "result = advanced_algebra_100(input_data)"
+      }
+    },
+    {
+      "id": 100,
+      "name": "advanced_algebra_233",
+      "category": "math",
+      "subcategory": "algebra",
+      "purpose": "Advanced algebra operation 233",
+      "input": {
+        "value": "number or array of numbers",
+        "options": "object with calculation parameters"
+      },
+      "output": {
+        "result": "number or array",
+        "units": "string (if applicable)"
+      },
+      "example_usage": {
+        "description": "Example usage of advanced_algebra_233",
+        "code": "result = advanced_algebra_233(input_data)"
+      }
+    }
+  ]
+}

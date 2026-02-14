@@ -1,0 +1,637 @@
+[
+  {
+    "name": "solve_linear_equation",
+    "category": "math/algebra",
+    "purpose": "Solves linear equations of the form ax + b = 0",
+    "input": {
+      "a": "number (coefficient)",
+      "b": "number (constant)"
+    },
+    "output": {
+      "x": "number (solution)",
+      "steps": "array (solution steps)"
+    }
+  },
+  {
+    "name": "solve_quadratic_equation",
+    "category": "math/algebra",
+    "purpose": "Solves quadratic equations using the quadratic formula",
+    "input": {
+      "a": "number",
+      "b": "number",
+      "c": "number"
+    },
+    "output": {
+      "roots": "array [x1, x2]",
+      "discriminant": "number"
+    }
+  },
+  {
+    "name": "solve_cubic_equation",
+    "category": "math/algebra",
+    "purpose": "Solves cubic equations using Cardano's formula",
+    "input": {
+      "a": "number",
+      "b": "number",
+      "c": "number",
+      "d": "number"
+    },
+    "output": {
+      "roots": "array [x1, x2, x3]",
+      "type": "string"
+    }
+  },
+  {
+    "name": "factor_polynomial",
+    "category": "math/algebra",
+    "purpose": "Factors polynomial expressions into simpler terms",
+    "input": {
+      "coefficients": "array",
+      "degree": "integer"
+    },
+    "output": {
+      "factors": "array",
+      "remainder": "number"
+    }
+  },
+  {
+    "name": "expand_polynomial",
+    "category": "math/algebra",
+    "purpose": "Expands polynomial expressions",
+    "input": {
+      "expression": "string"
+    },
+    "output": {
+      "expanded": "string",
+      "coefficients": "array"
+    }
+  },
+  {
+    "name": "derivative",
+    "category": "math/calculus",
+    "purpose": "Computes the derivative of a function",
+    "input": {
+      "function": "string or callable",
+      "x": "number",
+      "method": "string"
+    },
+    "output": {
+      "derivative": "number or function",
+      "formula": "string"
+    }
+  },
+  {
+    "name": "integral",
+    "category": "math/calculus",
+    "purpose": "Computes indefinite or definite integral",
+    "input": {
+      "function": "string or callable",
+      "variable": "string",
+      "limits": "optional array [a, b]"
+    },
+    "output": {
+      "result": "number or expression",
+      "constant": "string"
+    }
+  },
+  {
+    "name": "limit",
+    "category": "math/calculus",
+    "purpose": "Computes the limit of a function at a point",
+    "input": {
+      "function": "string or callable",
+      "x": "number",
+      "approaching": "number or 'infinity'"
+    },
+    "output": {
+      "limit": "number",
+      "exists": "boolean"
+    }
+  },
+  {
+    "name": "distance_2d",
+    "category": "math/geometry",
+    "purpose": "Calculates distance between two points in 2D space",
+    "input": {
+      "point1": "object {x, y}",
+      "point2": "object {x, y}"
+    },
+    "output": {
+      "distance": "number"
+    }
+  },
+  {
+    "name": "triangle_area",
+    "category": "math/geometry",
+    "purpose": "Calculates the area of a triangle",
+    "input": {
+      "base": "number",
+      "height": "number",
+      "method": "string (base-height, heron, coordinates)"
+    },
+    "output": {
+      "area": "number"
+    }
+  },
+  {
+    "name": "circle_area",
+    "category": "math/geometry",
+    "purpose": "Calculates the area of a circle",
+    "input": {
+      "radius": "number"
+    },
+    "output": {
+      "area": "number",
+      "circumference": "number"
+    }
+  },
+  {
+    "name": "sin",
+    "category": "math/trigonometry",
+    "purpose": "Calculates sine of an angle",
+    "input": {
+      "angle": "number",
+      "unit": "string (radians or degrees)"
+    },
+    "output": {
+      "result": "number (-1 to 1)"
+    }
+  },
+  {
+    "name": "cos",
+    "category": "math/trigonometry",
+    "purpose": "Calculates cosine of an angle",
+    "input": {
+      "angle": "number",
+      "unit": "string (radians or degrees)"
+    },
+    "output": {
+      "result": "number (-1 to 1)"
+    }
+  },
+  {
+    "name": "mean",
+    "category": "math/statistics",
+    "purpose": "Calculates arithmetic mean (average) of a dataset",
+    "input": {
+      "data": "array of numbers"
+    },
+    "output": {
+      "mean": "number",
+      "count": "integer"
+    }
+  },
+  {
+    "name": "median",
+    "category": "math/statistics",
+    "purpose": "Calculates median (middle value) of a dataset",
+    "input": {
+      "data": "array of numbers"
+    },
+    "output": {
+      "median": "number"
+    }
+  },
+  {
+    "name": "standard_deviation",
+    "category": "math/statistics",
+    "purpose": "Calculates standard deviation of a dataset",
+    "input": {
+      "data": "array of numbers",
+      "sample": "boolean (default true)"
+    },
+    "output": {
+      "stdDev": "number",
+      "variance": "number"
+    }
+  },
+  {
+    "name": "combination",
+    "category": "math/probability",
+    "purpose": "Calculates number of combinations (n choose k)",
+    "input": {
+      "n": "integer",
+      "k": "integer"
+    },
+    "output": {
+      "result": "integer"
+    }
+  },
+  {
+    "name": "permutation",
+    "category": "math/probability",
+    "purpose": "Calculates number of permutations",
+    "input": {
+      "n": "integer",
+      "k": "integer"
+    },
+    "output": {
+      "result": "integer"
+    }
+  },
+  {
+    "name": "calculate_force",
+    "category": "science/physics",
+    "purpose": "Calculates force using Newton's second law F=ma",
+    "input": {
+      "mass": "number (kg)",
+      "acceleration": "number (m/s\u00b2)"
+    },
+    "output": {
+      "force": "number (Newtons)",
+      "units": "string"
+    }
+  },
+  {
+    "name": "kinetic_energy",
+    "category": "science/physics",
+    "purpose": "Calculates kinetic energy KE = \u00bdmv\u00b2",
+    "input": {
+      "mass": "number (kg)",
+      "velocity": "number (m/s)"
+    },
+    "output": {
+      "energy": "number (Joules)"
+    }
+  },
+  {
+    "name": "gravitational_force",
+    "category": "science/physics",
+    "purpose": "Calculates gravitational force between two masses",
+    "input": {
+      "mass1": "number (kg)",
+      "mass2": "number (kg)",
+      "distance": "number (m)"
+    },
+    "output": {
+      "force": "number (N)",
+      "acceleration": "number (m/s\u00b2)"
+    }
+  },
+  {
+    "name": "molar_mass",
+    "category": "science/chemistry",
+    "purpose": "Calculates molar mass from molecular formula",
+    "input": {
+      "formula": "string (e.g., H2O, CH4)"
+    },
+    "output": {
+      "molarMass": "number (g/mol)",
+      "elements": "object"
+    }
+  },
+  {
+    "name": "ideal_gas_law",
+    "category": "science/chemistry",
+    "purpose": "Applies ideal gas law PV=nRT to solve for unknowns",
+    "input": {
+      "P": "number (atm)",
+      "V": "number (L)",
+      "n": "number (mol)",
+      "T": "number (K)",
+      "solve_for": "string"
+    },
+    "output": {
+      "result": "number",
+      "units": "string"
+    }
+  },
+  {
+    "name": "ph_calculation",
+    "category": "science/chemistry",
+    "purpose": "Calculates pH from hydrogen ion concentration",
+    "input": {
+      "H_concentration": "number (mol/L)",
+      "pOH": "optional number"
+    },
+    "output": {
+      "pH": "number (0-14)",
+      "pOH": "number",
+      "acidity": "string"
+    }
+  },
+  {
+    "name": "ohms_law",
+    "category": "science/electronics",
+    "purpose": "Applies Ohm's law V=IR to solve for voltage, current, or resistance",
+    "input": {
+      "V": "optional number (volts)",
+      "I": "optional number (amps)",
+      "R": "optional number (ohms)",
+      "solve_for": "string"
+    },
+    "output": {
+      "result": "number",
+      "power": "number (watts)"
+    }
+  },
+  {
+    "name": "bubble_sort",
+    "category": "coding/algorithms",
+    "purpose": "Sorts an array using bubble sort algorithm",
+    "input": {
+      "array": "array of comparable items",
+      "ascending": "boolean (default true)"
+    },
+    "output": {
+      "sorted": "array",
+      "comparisons": "integer",
+      "swaps": "integer"
+    }
+  },
+  {
+    "name": "quick_sort",
+    "category": "coding/algorithms",
+    "purpose": "Sorts an array using quick sort algorithm",
+    "input": {
+      "array": "array of comparable items",
+      "low": "integer",
+      "high": "integer"
+    },
+    "output": {
+      "sorted": "array",
+      "complexity": "string"
+    }
+  },
+  {
+    "name": "binary_search",
+    "category": "coding/algorithms",
+    "purpose": "Searches for element in sorted array using binary search",
+    "input": {
+      "array": "sorted array",
+      "target": "any comparable type"
+    },
+    "output": {
+      "index": "integer (-1 if not found)",
+      "iterations": "integer"
+    }
+  },
+  {
+    "name": "dijkstra_algorithm",
+    "category": "coding/algorithms",
+    "purpose": "Finds shortest path in weighted graph using Dijkstra's algorithm",
+    "input": {
+      "graph": "adjacency matrix or list",
+      "start": "node",
+      "end": "node"
+    },
+    "output": {
+      "path": "array of nodes",
+      "distance": "number",
+      "visited": "array"
+    }
+  },
+  {
+    "name": "array_push",
+    "category": "coding/data_structures",
+    "purpose": "Adds element to end of array",
+    "input": {
+      "array": "array",
+      "element": "any type"
+    },
+    "output": {
+      "array": "modified array",
+      "length": "integer"
+    }
+  },
+  {
+    "name": "binary_tree_insert",
+    "category": "coding/data_structures",
+    "purpose": "Inserts node into binary tree",
+    "input": {
+      "tree": "tree object",
+      "value": "comparable type"
+    },
+    "output": {
+      "tree": "modified tree",
+      "inserted": "boolean"
+    }
+  },
+  {
+    "name": "hash_table_get",
+    "category": "coding/data_structures",
+    "purpose": "Retrieves value from hash table by key",
+    "input": {
+      "table": "hash table",
+      "key": "string or number"
+    },
+    "output": {
+      "value": "any type or null",
+      "found": "boolean"
+    }
+  },
+  {
+    "name": "parse_json",
+    "category": "coding/parsing",
+    "purpose": "Parses JSON string into object",
+    "input": {
+      "json": "string",
+      "reviver": "optional function"
+    },
+    "output": {
+      "data": "object",
+      "error": "null or error object"
+    }
+  },
+  {
+    "name": "validate_email",
+    "category": "coding/validation",
+    "purpose": "Validates email address format",
+    "input": {
+      "email": "string"
+    },
+    "output": {
+      "valid": "boolean",
+      "message": "string"
+    }
+  },
+  {
+    "name": "parse_date",
+    "category": "general_purpose/date_time",
+    "purpose": "Parses date string into date object",
+    "input": {
+      "dateString": "string",
+      "format": "string (optional)"
+    },
+    "output": {
+      "date": "Date object",
+      "valid": "boolean",
+      "timestamp": "number"
+    }
+  },
+  {
+    "name": "format_date",
+    "category": "general_purpose/date_time",
+    "purpose": "Formats date object into string",
+    "input": {
+      "date": "Date object",
+      "format": "string (YYYY-MM-DD, etc.)"
+    },
+    "output": {
+      "formatted": "string"
+    }
+  },
+  {
+    "name": "add_days",
+    "category": "general_purpose/date_time",
+    "purpose": "Adds specified number of days to a date",
+    "input": {
+      "date": "Date object",
+      "days": "integer"
+    },
+    "output": {
+      "newDate": "Date object",
+      "difference": "integer"
+    }
+  },
+  {
+    "name": "convert_timezone",
+    "category": "general_purpose/date_time",
+    "purpose": "Converts date/time between timezones",
+    "input": {
+      "date": "Date object",
+      "fromZone": "string",
+      "toZone": "string"
+    },
+    "output": {
+      "convertedDate": "Date object",
+      "offset": "number"
+    }
+  },
+  {
+    "name": "trim",
+    "category": "general_purpose/string_utilities",
+    "purpose": "Removes whitespace from both ends of string",
+    "input": {
+      "str": "string"
+    },
+    "output": {
+      "trimmed": "string",
+      "removed": "integer"
+    }
+  },
+  {
+    "name": "camel_case",
+    "category": "general_purpose/string_utilities",
+    "purpose": "Converts string to camelCase format",
+    "input": {
+      "str": "string"
+    },
+    "output": {
+      "camelCase": "string"
+    }
+  },
+  {
+    "name": "truncate",
+    "category": "general_purpose/string_utilities",
+    "purpose": "Truncates string to specified length",
+    "input": {
+      "str": "string",
+      "length": "integer",
+      "ellipsis": "boolean (default true)"
+    },
+    "output": {
+      "truncated": "string",
+      "wasTruncated": "boolean"
+    }
+  },
+  {
+    "name": "validate_email",
+    "category": "general_purpose/validation",
+    "purpose": "Validates email address format",
+    "input": {
+      "email": "string"
+    },
+    "output": {
+      "valid": "boolean",
+      "message": "string",
+      "parts": "object {local, domain}"
+    }
+  },
+  {
+    "name": "format_currency",
+    "category": "general_purpose/formatting",
+    "purpose": "Formats number as currency",
+    "input": {
+      "amount": "number",
+      "currency": "string (USD, EUR, etc.)",
+      "locale": "string"
+    },
+    "output": {
+      "formatted": "string",
+      "symbol": "string"
+    }
+  },
+  {
+    "name": "convert_units",
+    "category": "general_purpose/conversion",
+    "purpose": "Converts between different units of measurement",
+    "input": {
+      "value": "number",
+      "fromUnit": "string",
+      "toUnit": "string"
+    },
+    "output": {
+      "converted": "number",
+      "factor": "number"
+    }
+  },
+  {
+    "name": "generate_uuid",
+    "category": "general_purpose/random_generation",
+    "purpose": "Generates a UUID (Universally Unique Identifier)",
+    "input": {
+      "version": "integer (1, 4, or 5)",
+      "namespace": "optional string"
+    },
+    "output": {
+      "uuid": "string",
+      "version": "integer"
+    }
+  },
+  {
+    "name": "hash_md5",
+    "category": "general_purpose/hashing",
+    "purpose": "Generates MD5 hash of input",
+    "input": {
+      "data": "string or buffer",
+      "encoding": "string (hex, base64)"
+    },
+    "output": {
+      "hash": "string",
+      "length": "integer"
+    }
+  },
+  {
+    "name": "calculate_interest",
+    "category": "general_purpose/financial",
+    "purpose": "Calculates compound interest",
+    "input": {
+      "principal": "number",
+      "rate": "number (percentage)",
+      "time": "number (years)",
+      "frequency": "integer"
+    },
+    "output": {
+      "finalAmount": "number",
+      "interest": "number",
+      "breakdown": "array"
+    }
+  },
+  {
+    "name": "distance_between_coordinates",
+    "category": "general_purpose/geographic",
+    "purpose": "Calculates distance between two geographic coordinates",
+    "input": {
+      "lat1": "number",
+      "lon1": "number",
+      "lat2": "number",
+      "lon2": "number",
+      "unit": "string (km, miles)"
+    },
+    "output": {
+      "distance": "number",
+      "bearing": "number"
+    }
+  }
+]

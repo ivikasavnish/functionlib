@@ -1,0 +1,13 @@
+# multiply_algebraic_fractions
+
+## Description
+Multiplies algebraic fractions
+
+## Category
+math > algebra
+
+## Usage
+Common applications in mathematical computations and data analysis.
+
+## Related Functions
+See other functions in the algebra category.

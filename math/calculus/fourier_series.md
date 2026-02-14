@@ -1,0 +1,13 @@
+# fourier_series
+
+## Description
+Computes Fourier series
+
+## Category
+math > calculus
+
+## Usage
+Common applications in mathematical computations and data analysis.
+
+## Related Functions
+See other functions in the calculus category.
