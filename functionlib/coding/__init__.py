@@ -26,5 +26,9 @@ from . import data_analysis
 from . import advanced_algorithms
 from . import structured_data
 from . import drivers
+from . import rag
+from . import llm_recipes
+from . import async_jobs
+from . import workflow_engine
 
-__all__ = ["data_structures", "algorithms", "string_operations", "cryptography", "file_operations", "text_analysis", "network_utils", "regex_utils", "ml_basics", "vector_search", "system_automation", "data_processing", "introspection", "database_utils", "data_analysis", "advanced_algorithms", "structured_data", "drivers"]
+__all__ = ["data_structures", "algorithms", "string_operations", "cryptography", "file_operations", "text_analysis", "network_utils", "regex_utils", "ml_basics", "vector_search", "system_automation", "data_processing", "introspection", "database_utils", "data_analysis", "advanced_algorithms", "structured_data", "drivers", "rag", "llm_recipes", "async_jobs", "workflow_engine"]
