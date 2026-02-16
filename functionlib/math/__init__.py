@@ -26,7 +26,8 @@ from . import random_sampling
 from . import optimization
 from . import statistics_advanced
 from . import time_series
+from . import timeseries
 
 __all__ = ["algebra", "calculus", "geometry", "trigonometry", "statistics", 
            "probability", "number_theory", "linear_algebra", "combinatorics", "numerical_methods", "random_sampling",
-           "optimization", "statistics_advanced", "time_series"]
+           "optimization", "statistics_advanced", "time_series", "timeseries"]

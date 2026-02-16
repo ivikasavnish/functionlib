@@ -30,5 +30,7 @@ from . import rag
 from . import llm_recipes
 from . import async_jobs
 from . import workflow_engine
+from . import crewai_patterns
+from . import llamaindex_patterns
 
-__all__ = ["data_structures", "algorithms", "string_operations", "cryptography", "file_operations", "text_analysis", "network_utils", "regex_utils", "ml_basics", "vector_search", "system_automation", "data_processing", "introspection", "database_utils", "data_analysis", "advanced_algorithms", "structured_data", "drivers", "rag", "llm_recipes", "async_jobs", "workflow_engine"]
+__all__ = ["data_structures", "algorithms", "string_operations", "cryptography", "file_operations", "text_analysis", "network_utils", "regex_utils", "ml_basics", "vector_search", "system_automation", "data_processing", "introspection", "database_utils", "data_analysis", "advanced_algorithms", "structured_data", "drivers", "rag", "llm_recipes", "async_jobs", "workflow_engine", "crewai_patterns", "llamaindex_patterns"]
